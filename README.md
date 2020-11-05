@@ -2,6 +2,6 @@
 
 ¿Como correrlo localmente?
 
-Ejecutar script para crear la DB
+Ejecutar script SP_CRETE_DB.sp  para crear la DB
 
 Modificar el conection string en la app .NET
